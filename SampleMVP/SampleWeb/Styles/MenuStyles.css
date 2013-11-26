@@ -1,0 +1,27 @@
+﻿.leftmenuitemtd{
+	padding-left:5px; padding-bottom:4px; padding-top:4px;  border-bottom:1px solid #dfdfdf; font-family:Tahoma;
+	font-size:12px; font-weight:bold;	color:#180808;text-decoration:none;
+}
+a.leftmenuitemtd:hover{
+	padding-left:5px; padding-bottom:4px; padding-top:4px;  border-bottom:1px solid #dfdfdf; font-family:Tahoma;
+	font-size:12px; font-weight:bold;	color:#180808;text-decoration:none;
+}
+
+
+.leftsubmenuitemtd{
+	padding-left:25px; padding-bottom:4px;	padding-top:4px; border-bottom:1px solid #c4f1ce; font-family:Tahoma;
+	font-size:13px; color:#303d33;text-decoration:none;font-weight:bold;
+
+
+}
+a.leftsubmenuitemtd:hover{
+	padding-left:25px; padding-bottom:4px;	padding-top:4px; border-bottom:1px solid #c4f1ce; font-family:Tahoma;
+	font-size:13px; color:#303d33;text-decoration:none;font-weight:bold;
+
+
+}
+.footer{
+	font-family:Tahoma;	font-size:9px; color:#180808; background-color:#C13434; text-align:center; line-height:12px;font-weight:bold;
+	
+
+}
